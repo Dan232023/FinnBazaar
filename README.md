@@ -21,4 +21,9 @@ A P2P - marketplace, anyone can sell and buy products.
 - admin
 	* admin can delete illegal products and delete users’ accounts
 
-Some new features may be added during production.
+
+Some new features may be added during production:
+- give ratings to seller
+- browse products within specific categories
+- add countries (delivery to and from)
+- auction: seller can create new auction (provide starting price and end date)
