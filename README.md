@@ -3,7 +3,7 @@
 A peer-to-peer marketplace, anyone can sell and buy products.
 
 - visitor
-  * can browse products and search for a specific item
+	* can browse products and search for a specific item
 	* can browse products within specific categories
 
 - user
