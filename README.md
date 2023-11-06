@@ -24,7 +24,7 @@ A peer-to-peer marketplace, anyone can sell and buy products.
 - admin
 	* admin can delete products and delete users’ accounts
 
-Some new features may be added during production:
+- Some new features may be added during production:
 	* give ratings to seller
 	* add countries (delivery to / delivery from)
 	* auction: seller can create an auction (provide starting price and end date)
