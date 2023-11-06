@@ -29,3 +29,4 @@ Some new features may be added during production:
 	* add countries (delivery to / delivery from)
 	* auction: seller can create an auction (provide starting price and end date)
 	* ...
+ 
