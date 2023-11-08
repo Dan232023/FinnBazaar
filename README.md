@@ -1,4 +1,4 @@
-# Web_Sovellus_HY
+# FinnBazaar
 
 A peer-to-peer marketplace, anyone can sell and buy products.
 
